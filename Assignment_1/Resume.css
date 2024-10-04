@@ -1,0 +1,32 @@
+body{
+    border: 3px solid black;
+    width: 70%;
+    margin: auto;
+}
+
+h3{
+    color: blue;
+    text-decoration-line: underline;
+}
+
+.table2{
+    border: 1px solid black;
+    width: 100%;
+    text-align: center;
+}
+
+.tr2{
+    border: 1px solid black;
+}
+
+.td2{
+    border: 1px solid black;
+    width: 40px;
+}
+
+.declare{
+    align-items: center;
+    font-weight: 1400;
+    font-size: larger;
+    margin-left:10%;
+}
